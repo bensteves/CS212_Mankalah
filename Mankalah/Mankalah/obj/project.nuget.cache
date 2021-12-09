@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ztsit8hYugiLpWXXXY5MTFcUM5Q/RXstnhMIiPJmjVaHmfOxCaGN4Yu+5rPYaI+EJQOmAf1+cI4o/QX8GAEtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bjs48\\OneDrive - Calvin University\\Mankalah\\Mankalah\\Mankalah.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bjs48\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
